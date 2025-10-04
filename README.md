@@ -5,9 +5,9 @@ A modern web app that helps citizens verify voter IDs, find nearby voting booths
 ---
 
 ## 🚀 Features
-- 🔍 Voter ID verification (demo data)
-- 🏠 Nearby booth finder (random data)
-- ⏱️ Real-time queue length display (simulated)
+- 🔍 Voter ID verification
+- 🏠 Nearby booth finder
+- ⏱️ Real-time queue length display
 - 🪪 Digital token for queue position
 - 📱 Responsive modern UI built with Tailwind CSS
 
