@@ -4,6 +4,7 @@ A modern web app that helps citizens verify voter IDs, find nearby voting booths
 
 ---
 VIDEO
+<br>
 https://github.com/user-attachments/assets/944645af-38cb-4969-9fe1-59b9ab07c4a6
 ---
 
