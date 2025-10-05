@@ -3,6 +3,8 @@
 A modern web app that helps citizens verify voter IDs, find nearby voting booths, view live queue length, and join digital queues — improving the overall voting experience.
 
 ---
+https://github.com/user-attachments/assets/944645af-38cb-4969-9fe1-59b9ab07c4a6
+---
 
 ## 🚀 Features
 - 🔍 Voter ID verification
@@ -28,3 +30,8 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 npm install
 npm run dev
+
+
+
+
+
